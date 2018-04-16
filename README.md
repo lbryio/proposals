@@ -60,7 +60,7 @@ As soon as a proposed solution is in a state where feedback can be given, it sho
 
 **Remember: the goal is not to have your own solution "win", but to find the best overall solution.**
 
-## 5. Determing a Solution
+## 5. Selecting a Solution
 
 After the solution deadline and group members have submitted potential solutions, a meeting should be set to present all potential solutions in real time to all group members, as well as the CTO and CEO.
 
