@@ -2,6 +2,10 @@
 
 This repo is for discussing large projects. Here's the process:
 
+## 0. When in doubt, ping @grin
+
+If you're blocked, have questions, or are unsure about how to proceed, message @grin on Slack.
+
 ## 1. Create an issue for the proposal
 
 The issue description should contain the following items:
