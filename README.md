@@ -30,3 +30,7 @@ When is the next step due?
 ## 4. Do the next step
 
 ## 5. Repeat until  done
+
+## Resources
+
+- http://eips.ethereum.org/EIPS/eip-1
