@@ -27,6 +27,8 @@ What is the next thing that needs to happen for the proposal to move forward? Is
 
 When is the next step due?
 
+Who is responsible for the next step? Remember, the owner's job is not to do the whole thing themselves, but to ensure that the process moves forward.
+
 ## 4. Do the next step
 
 ## 5. Repeat until  done
