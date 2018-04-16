@@ -29,19 +29,21 @@ The issue description should contain the following items:
 
 The first step of every team is to make a strong effort on building a consensus problem statement and user stories.
 
-Ideally, this should be completed on the first meeting. If issues are raised on this meeting that require further research or discovery to form the problem statement, these tasks should be assigned. Then, another meeting should be had after those tasks are completed. This process should be completed until the problem statement and user stories are well formed.
+Ideally, this should be completed on the first meeting. If issues are raised on this meeting that require further research or discovery to form the problem statement, these tasks should be assigned. Then, another meeting should be had after those tasks are completed. This process should be repeated until the problem statement and user stories are well formed.
 
-If there is no consensus on the problem and no further research or discovery actions, disagreements on the problem should be noted. 
+If there is no consensus on the problem and no further research or discovery actions, disagreements on the problem should be noted. Maybe the issue needs to be split into two or more separate problems.
 
 At this point, the issue should include the well-defined problem statement, well-defined requirements, and well-defined user stories, be tagged "prepared", and converted to an epic. 
 
-At times, a problem may have to trade-off between requirements (e.g. it may not be possible for a solution to be both decentralized and performant). In these cases, this should be noted on the issue.
+At times, a problem may have trade-offs between requirements (e.g. it may not be possible for a solution to be both decentralized and performant). In these cases, this should be noted on the issue.
 
-Also, a tentative deadline should be set for submitting proposed solutions.
+A tentative deadline should be set for submitting proposed solutions.
 
 ## 4. Solutions
 
 After the problem is prepared, anyone can submit a proposed solution. Members of the problem group may submit solutions on their own, form subgroups to work on different solutions, or all work together on separate solutions.
+
+When a proposal is ready to accept solutions, announce this fact to everyone.
 
 Proposed solutions should include:
 
@@ -50,11 +52,13 @@ Proposed solutions should include:
   - pros, cons, how cons might be mitigated
   - assumptions and risks
   - test cases
-  - implementation
+  - implementation (not strictly necessary, but even rough code is very helpful)
 
 Proposed solutions should be attached to the epic representing the problem and be tagged "solution".
 
-As soon as a proposed solution is in a state where feedback can be given, it should be shared with the rest of the group either via chat or email. All members of the group are encouraged to collaborate on others solutions, both in terms of pointing out problems and improvements. 
+As soon as a proposed solution is in a state where feedback can be given, it should be shared with the rest of the group either via chat or email. All members of the group are encouraged to collaborate on others solutions, both in terms of pointing out problems and improvements.
+
+**Remember: the goal is not to have your own solution "win", but to find the best overall solution.**
 
 ## 5. Determing a Solution
 
