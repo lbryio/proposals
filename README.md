@@ -12,7 +12,7 @@ The issue description should contain the following items:
 
 - Owner: who is in charge of moving the issue forward? Include contact info (email, slack, discord, etc)
 - Preliminary Problem Statement: what problem will this proposal be solving? A good problem statement is the most important part of any proposal. The problem statement created at this time is _preliminary_, the first job of the problem solving team will be to agree on a well-defined problem statement.
-- Preliminary Requirements: what attributes or properties must the solution have?
+- Preliminary Requirements: what attributes or properties must a solution to this problem have?
 - Preliminary [User Stories](https://en.wikipedia.org/wiki/User_story#Common_templates). A few informal, real-world examples of the problem in natural language.
 - If you desire, or if you're doing this for the first time, run your issue by Jeremy or Grin.
 - Tag this issue "preliminary".
