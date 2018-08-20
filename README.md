@@ -20,7 +20,7 @@ The issue description should contain the following items:
 ## 2. Team Formation
 
 1. Send an email to team@lbry.io announcing the formation of a project group. Also mention it on Slack. Ask people to let you know via email or Slack if they are interested in joining.
-2. Collect the interested people in a private Slack channel.
+2. Collect the interested people in a Slack channel.
 3. Create an email alias for the group if you desire one, or ask @finer9 to do this for you.
 4. Poll and/or set a first meeting time for the group.
 5. On the first meeting, set a regular meeting interval (most likely every 2-6 weeks).
